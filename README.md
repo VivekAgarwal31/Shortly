@@ -41,5 +41,5 @@ os
 # TEAM MEMBERS :
 1.  Vivek Agarwal
 2.  Madhav Garg
-3.  Ronit Vats
-4.  Aditya Singhal
+3.  Ujjwal Singh
+4.  Ronit Vats
